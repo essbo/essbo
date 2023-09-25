@@ -1,12 +1,12 @@
 
-# 👋 Hey, i am Essbo !
+# 👋 Hey, my name is Bosse áka Essbo !
 ### ❤️️ If you're looking for custom prometheus exporters or SaltStack - Formulars you may came to the right place
 
 
 **Welcome to my Github profile. Pretty much everything is private because i do not feel confident sharing my code with strangers... Yet**
 
 
-## I am a SysAdmin and DevOps Engineer, currently in an apprenticeship with a company.
+## I am a SysAdmin and DevOps Engineer, currently in an apprenticeship within a company specialised in cyber-security.
 On my profile you can find a few projects I created in my spare time besides work
 - 📞 You can contact me through Matrix: (```@essbo:matrix.org```)
 
