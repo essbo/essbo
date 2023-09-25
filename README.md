@@ -1,5 +1,5 @@
 
-# 👋 Hey, my name is Bosse áka Essbo !
+# 👋 Hey, my name is Bosse aka Essbo !
 ### ❤️️ If you're looking for custom prometheus exporters or SaltStack - Formulars you may came to the right place
 
 
