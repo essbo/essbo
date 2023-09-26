@@ -1,6 +1,6 @@
 
-# 👋 Hey, my name is Bosse aka Essbo !
-### ❤️️ If you're looking for custom prometheus exporters or SaltStack - Formulars you may came to the right place
+# Hey, my name is Bosse aka Essbo !
+### If you're looking for custom prometheus exporters or SaltStack - Formulars you may came to the right place
 
 
 **Welcome to my Github profile. Pretty much everything is private because i do not feel confident sharing my code with strangers... Yet**
