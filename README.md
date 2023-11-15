@@ -22,4 +22,5 @@ On my profile you can find a few projects I created in my spare time besides wor
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/saltstack_icon_132014.png" alt="Saltstack" height="40" style="vertical-align:top; margin:4px">
 <img src="https://static-00.iconduck.com/assets.00/file-type-prometheus-icon-1441x2048-ltt93qn8.png" alt="Prometheus" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
+<img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" alt="PowerShell" height="40" style="vertical-align:top; margin:4px">
 
