@@ -6,7 +6,7 @@
 **Welcome to my Github profile. Pretty much everything is private because i do not feel confident sharing my code with strangers... Yet**
 
 
-## I am a SysAdmin and DevOps Engineer, currently in an apprenticeship within a company specialised in cyber-security.
+## I am a CISO , currently working for the City of Ratzeburg.
 On my profile you can find a few projects I created in my spare time besides work
 - 📞 You can contact me through Matrix: (```@essbo:matrix.org```)
 
