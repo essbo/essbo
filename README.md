@@ -6,7 +6,7 @@
 **Welcome to my Github profile. Pretty much everything is private because i do not feel confident sharing my code with strangers... Yet**
 
 
-## I am a ISO , currently working for the City of Ratzeburg.
+## I am a Network and Linux Technichian , currently working for the German Climate Coumputation Center.
 On my profile you can find a few projects I created in my spare time besides work
 - 📞 You can contact me through Matrix: (```@essbo:matrix.org```)
 
